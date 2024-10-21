@@ -1,0 +1,2 @@
+hello this is a normal file
+now its updated
